@@ -45,10 +45,11 @@ _El Atorón de los Linderos_
 >Pendientes en el desarrollo de este juego:
 
 1. Revisar la acción EXPANSIÓN (Game_Defaults.TCyan: Case: "s") ya que parece ignorar el rango.
-2. Desarrollar las clases correspondientes para 3 y 4 jugadores (Game_3P.cs, Game_3PV.cs, Game_4P.cs, Game_4PV.cs) e incluirlas en Server_Menu.cs
-3. Revisión de errores y optimizaciones.
-4. Versión experimental con SCORES y Sountrack.
-5. Generar objetos 3D para imprimir correspondientes a los componentes del juego físico.
+2. Generar la interfase gráfica del mapa.
+3. Desarrollar las clases correspondientes para 3 y 4 jugadores (Game_3P.cs, Game_3PV.cs, Game_4P.cs, Game_4PV.cs) e incluirlas en Server_Menu.cs
+4. Revisión de errores y optimizaciones.
+5. Versión experimental con SCORES y Sountrack.
+6. Generar objetos 3D para imprimir correspondientes a los componentes del juego físico.
 
 
 ### ATRIBUCIÓN:
