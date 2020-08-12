@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>lightk.Light_Knights</StartupObject>
+    <ApplicationIcon>coloured_knight_design_1152_54_uyj_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+</Project>

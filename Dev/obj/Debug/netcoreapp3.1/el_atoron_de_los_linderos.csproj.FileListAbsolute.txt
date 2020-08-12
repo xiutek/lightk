@@ -1,0 +1,13 @@
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\bin\Debug\netcoreapp3.1\el_atoron_de_los_linderos.exe
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\bin\Debug\netcoreapp3.1\el_atoron_de_los_linderos.deps.json
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\bin\Debug\netcoreapp3.1\el_atoron_de_los_linderos.runtimeconfig.json
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\bin\Debug\netcoreapp3.1\el_atoron_de_los_linderos.runtimeconfig.dev.json
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\bin\Debug\netcoreapp3.1\el_atoron_de_los_linderos.dll
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\bin\Debug\netcoreapp3.1\el_atoron_de_los_linderos.pdb
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\obj\Debug\netcoreapp3.1\el_atoron_de_los_linderos.csprojAssemblyReference.cache
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\obj\Debug\netcoreapp3.1\el_atoron_de_los_linderos.AssemblyInfoInputs.cache
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\obj\Debug\netcoreapp3.1\el_atoron_de_los_linderos.AssemblyInfo.cs
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\obj\Debug\netcoreapp3.1\el_atoron_de_los_linderos.csproj.CoreCompileInputs.cache
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\obj\Debug\netcoreapp3.1\el_atoron_de_los_linderos.dll
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\obj\Debug\netcoreapp3.1\el_atoron_de_los_linderos.pdb
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\obj\Debug\netcoreapp3.1\el_atoron_de_los_linderos.genruntimeconfig.cache

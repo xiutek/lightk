@@ -1,0 +1,13 @@
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\bin\Release\netcoreapp3.1\lightk.exe
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\bin\Release\netcoreapp3.1\lightk.deps.json
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\bin\Release\netcoreapp3.1\lightk.runtimeconfig.json
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\bin\Release\netcoreapp3.1\lightk.runtimeconfig.dev.json
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\bin\Release\netcoreapp3.1\lightk.dll
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\bin\Release\netcoreapp3.1\lightk.pdb
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\obj\Release\netcoreapp3.1\lightk.csprojAssemblyReference.cache
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\obj\Release\netcoreapp3.1\lightk.AssemblyInfoInputs.cache
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\obj\Release\netcoreapp3.1\lightk.AssemblyInfo.cs
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\obj\Release\netcoreapp3.1\lightk.csproj.CoreCompileInputs.cache
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\obj\Release\netcoreapp3.1\lightk.dll
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\obj\Release\netcoreapp3.1\lightk.pdb
+C:\Users\xiute\Documents\GitHub\EALL\el_atoron_de_los_linderos\obj\Release\netcoreapp3.1\lightk.genruntimeconfig.cache
