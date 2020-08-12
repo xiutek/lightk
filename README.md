@@ -44,7 +44,7 @@ Versión ejecutable estable para 2 Players.
 >Pendientes en el desarrollo de este juego:
 
 1. Revisar la acción EXPANSIÓN (Game_Defaults.TCyan: Case: "s") ya que parece ignorar el rango.
-2. Desarrollar las clases correspondientes para 3 y 4 jugadores (Game_3P.cs, Game_3PV.cs, Game_3P.cs, Game_3PV.cs) e incluirlas en Server_Menu.cs
+2. Desarrollar las clases correspondientes para 3 y 4 jugadores (Game_3P.cs, Game_3PV.cs, Game_4P.cs, Game_4PV.cs) e incluirlas en Server_Menu.cs
 3. Revisión de errores y optimizaciones.
 4. Versión experimental con SCORES y Sountrack.
 
