@@ -28,16 +28,17 @@ Los jugadores combatirán por turnos para eliminar a otros competidores.
 
 ### CONTENIDO:
 
-1. Dev
+**1. Dev:**
 Proyecto completo de Visual Studio .NET Core
 >Archivo principal: lightk.cs
 
-2. Light Kights (2 Players)
+**2. Light Kights (2 Players):**
 Versión ejecutable estable para 2 Players.
 >Activar la opción para 3 y 4 Players resultará en error crítico.
 
-3. Board Game
->Se trata de la versión física de este juego, llamada "El atorón de los linderos".
+**3. Board Game:**
+_El Atorón de los Linderos_
+>Se trata de la versión física de este juego (papel, colores, fichas, piezas, dados).
 
 
 ### DESARROLLO:
@@ -47,6 +48,7 @@ Versión ejecutable estable para 2 Players.
 2. Desarrollar las clases correspondientes para 3 y 4 jugadores (Game_3P.cs, Game_3PV.cs, Game_4P.cs, Game_4PV.cs) e incluirlas en Server_Menu.cs
 3. Revisión de errores y optimizaciones.
 4. Versión experimental con SCORES y Sountrack.
+5. Generar objetos 3D para imprimir correspondientes a los componentes del juego físico.
 
 
 ### ATRIBUCIÓN:
